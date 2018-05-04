@@ -11,7 +11,7 @@ public class GitClass {
 //=======
 		System.out.println("SG2 - Second");
 //>>>>>>> a17febe9d9b29f5188c43d6c89323c5fa5319ae0
-
+		System.out.println("four");
 	}
 
 }
