@@ -6,6 +6,7 @@ public class GitClass {
 		// TODO Auto-generated method stub
 		System.out.println("Master series");
 		System.out.println("from child");
+		System.out.println("Putting Master into child");
 		
 		
 	}
