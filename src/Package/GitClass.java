@@ -4,14 +4,8 @@ public class GitClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("First");
-//<<<<<<< HEAD
-		System.out.println("Three");
+		System.out.println("Master series");
 		
-//=======
-		System.out.println("SG2 - Second");
-//>>>>>>> a17febe9d9b29f5188c43d6c89323c5fa5319ae0
-		System.out.println("four");
 	}
 
 }
